@@ -1,0 +1,8 @@
+html, body {
+    background : white !Important;
+}
+
+#app {
+    max-width:1200px;
+    margin:0 auto;
+}
