@@ -27,4 +27,4 @@ A frontendet egy Vue Router-es Vue.js teszi ki, ahol a Vuetify frameworkot alkal
 
 ## Tesztelés
 
-A feladat megoldását TDD-vel kezdtem de kifutottam a saját időmből (kb. 2 órám volt a tegnap meg a mai nap a feladat megoldására) ezért itt is lehetne még bőven tesztet írni.
+A feladat megoldását TDD-vel kezdtem Laravel oldalon de kifutottam a saját időmből (kb. 2 órám volt a tegnap meg a mai nap a feladat megoldására) ezért itt is lehetne még bőven tesztet írni. A front endre is ráfért volna a Jest alapú tesztelés.
